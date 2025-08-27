@@ -1,4 +1,6 @@
 # Pripper — A Pinterest Ripper 🪄📌
+> ⚠️ **Note:** This project (including this README) was put together quickly with the help of AI.  
+> It’s not perfect by any means — expect rough edges, and feel free to improve it!
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB.svg?logo=python&logoColor=white)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A.svg?logo=selenium&logoColor=white)](#)

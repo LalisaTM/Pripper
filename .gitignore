@@ -15,3 +15,4 @@ Thumbs.db
 # Project output
 pinterest_downloads/
 *.zip
+.idea/
