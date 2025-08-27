@@ -45,7 +45,7 @@ python -m venv .venv
 # macOS/Linux:
 source .venv/bin/activate
 
-# Install all dependencies (one file)
+# Install all dependencies
 pip install -r requirements.txt
 ```
 
