@@ -1,0 +1,8 @@
+selenium
+webdriver-manager
+requests
+colorama
+pillow
+numpy
+opencv-python
+pytesseract
