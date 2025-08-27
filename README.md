@@ -35,7 +35,7 @@
 > Single `requirements.txt`.
 
 ```bash
-git clone https://github.com/<you>/pripper.git
+git clone https://github.com/LalisaTM/Pripper.git
 cd pripper
 
 # (Recommended) create a virtual environment
